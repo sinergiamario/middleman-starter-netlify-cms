@@ -36,7 +36,7 @@ Be sure to check out the [middleman installation guide](https://middlemanapp.com
 $ git clone https://github.com/tomrutgers/middleman-starter-netlify-cms
 $ cd middleman-starter-netlify-cms
 $ bundle install
-$ middleman server
+$ bundle exec middleman server
 ```
 
 ### Setting up the CMS
